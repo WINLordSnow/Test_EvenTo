@@ -18,6 +18,7 @@ public class Main {
                 }
             }
         }
+        int k = kjhvjhgjh;
         for (List<Integer> i : lists) {
             i.forEach(n -> System.out.print(n + " "));
             System.out.println();
