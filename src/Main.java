@@ -18,9 +18,13 @@ public class Main {
                 }
             }
         }
+
         for (List<Integer> i : lists) {
             i.forEach(n -> System.out.print(n + " "));
             System.out.println();
+
+
+
 
         }
     }
